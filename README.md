@@ -1,16 +1,82 @@
-## Hi there 👋
+# 🏄‍♂️ Nahom Wondimu  
 
-<!--
-**NahomWondimu/NahomWondimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Shaping the future instead of inheriting it.`**
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the University of Maryland (University Honors) and an aspiring cybersecurity professional. My journey blends development, security research, and homelab tinkering — from building AWS "fake internet" environments and penetration testing labs to full-stack web apps and experimental AI/quantum projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on solving real-world problems with code and continuously sharpening my skills in red teaming, blue teaming, and vulnerability research. Every repo here reflects my growth — from raw experiments to polished tools.  
+
+---
+
+### 🌍 Future Goals  
+
+I want to use computer science, hardware, networks, and cybersecurity to create meaningful change in the world. My long-term vision is to design technologies that blend innovation with sustainability — tools that make critical resources and research more accessible without harming the planet.  
+
+One example: developing **cyberdecks paired with remote satellite stations** to empower environmental scientists. Analysts in remote regions could run accessible research and monitoring directly from these systems, creating jobs and making data-driven solutions more inclusive.  
+
+The ultimate goal: to contribute to a **solarpunk future** — a world where technology helps us live in balance with the environment rather than working against it.  
+
+---
+
+<p align="left">
+   <a href="https://github.com/NahomWondimu?tab=followers">
+      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NahomWondimu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/NahomWondimu?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NahomWondimu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+---
+
+### 🏆 Hackathon Experience  
+
+<p align="left">
+   <img alt="Bitcamp UMD" src="https://img.shields.io/badge/Bitcamp%202025-Hackathon-orange?style=for-the-badge&logo=hackthebox&logoColor=white" />
+   <img alt="SafeHub Project" src="https://img.shields.io/badge/SafeHub%20-%20Cybersecurity%20Project-blue?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+---
+
+### 🧰 Languages and Tools  
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<br/>
+
+---
+
+### 🚀 Featured Projects  
+
+- [**SafeHub**](#) – Cybersecurity awareness platform with URL/WiFi/download verification tools (Django, Python)  
+- [**MailMan**](#) – Gmail + AI inbox assistant (Next.js, FastAPI, Gemini API)  
+- [**Urbex Database**](#) – Mapping abandoned spaces with route optimization + MySQL backend  
+- [**Neurobit Simulation**](#) – Maze-learning agents inspired by neurons and malware  
+
+---
+
+### 📊 GitHub Stats  
+
+![Nahom's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahomWondimu&show_icons=true&theme=gruvbox)  
+![GitHub Streak](https://streak-stats.demolab.com?user=NahomWondimu&theme=gruvbox&border_radius=4.5)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahomWondimu&layout=compact&theme=gruvbox)  
+
+---
+
+### 🌱 Currently Learning  
+- Preparing for **CompTIA Security+** (target: Aug 2025)  
+- Penetration testing via Hack The Box & TryHackMe  
+- AI + quantum applications in cybersecurity (Cirq, ML, swarm systems)  
+- Expanding my homelab with Proxmox + AWS  
+
+---
+
+### 📫 Connect with Me  
+- [LinkedIn](#)  
+- [Email](#)  
