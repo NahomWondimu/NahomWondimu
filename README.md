@@ -1,4 +1,4 @@
-# 🏄‍♂️ Nahom Wondimu  
+# 🔭 Nahom Wondimu  
 
 **`Shaping the future instead of inheriting it.`**
 
@@ -59,12 +59,10 @@ The ultimate goal: to contribute to a **solarpunk future** — a world where tec
 
 ### 🚀 Featured Projects  
 
-- [**SafeHub**](https://github.com/NahomWondimu/SafeHub) – Cybersecurity awareness platform with URL/WiFi/download verification tools (Django, Python) — built at **Bitcamp 2025**. :contentReference[oaicite:0]{index=0}  
-- [**CyberSafe**](https://github.com/NahomWondimu/CyberSafe) – Bitcamp 2025 final submission repo/entry. :contentReference[oaicite:1]{index=1}  
-- [**MailMan**](https://github.com/NahomWondimu/MailManManager) – Gmail + AI inbox assistant (Next.js, FastAPI, Gemini API). :contentReference[oaicite:2]{index=2}  
-- [**Urbex Database**](https://github.com/NahomWondimu/UrbexDBApp) – Mapping abandoned spaces with route optimization + MySQL backend. :contentReference[oaicite:3]{index=3}  
-
-> (If you later publish the Neurobit project, add it here and to the pinned repos.)
+- [**SafeHub**](https://github.com/NahomWondimu/SafeHub) – Cybersecurity awareness platform with URL/WiFi/download verification tools (Django, Python) — built at **Bitcamp 2025**.
+- [**CyberSafe**](https://github.com/NahomWondimu/CyberSafe) – Bitcamp 2025 final submission repo/entry.
+- [**MailMan**](https://github.com/NahomWondimu/MailManManager) – Gmail + AI inbox assistant (Next.js, FastAPI, Gemini API).
+- [**Urbex Database**](https://github.com/NahomWondimu/UrbexDBApp) – Mapping abandoned spaces with route optimization + MySQL backend.
 
 ---
 
@@ -111,5 +109,5 @@ The ultimate goal: to contribute to a **solarpunk future** — a world where tec
 ---
 
 ### 📫 Connect with Me  
-- [LinkedIn](#)  
-- [Email](#)  
+- [LinkedIn](https://www.linkedin.com/in/nahomwondimu/)  
+- [Email](imwondimu@gmail.com)  
