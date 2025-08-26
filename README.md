@@ -41,23 +41,52 @@ The ultimate goal: to contribute to a **solarpunk future** — a world where tec
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg"/>
+<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"/>
 <br/>
 
 ---
 
 ### 🚀 Featured Projects  
 
-- [**SafeHub**](#) – Cybersecurity awareness platform with URL/WiFi/download verification tools (Django, Python)  
-- [**MailMan**](#) – Gmail + AI inbox assistant (Next.js, FastAPI, Gemini API)  
-- [**Urbex Database**](#) – Mapping abandoned spaces with route optimization + MySQL backend  
-- [**Neurobit Simulation**](#) – Maze-learning agents inspired by neurons and malware  
+- [**SafeHub**](https://github.com/NahomWondimu/SafeHub) – Cybersecurity awareness platform with URL/WiFi/download verification tools (Django, Python) — built at **Bitcamp 2025**. :contentReference[oaicite:0]{index=0}  
+- [**CyberSafe**](https://github.com/NahomWondimu/CyberSafe) – Bitcamp 2025 final submission repo/entry. :contentReference[oaicite:1]{index=1}  
+- [**MailMan**](https://github.com/NahomWondimu/MailManManager) – Gmail + AI inbox assistant (Next.js, FastAPI, Gemini API). :contentReference[oaicite:2]{index=2}  
+- [**Urbex Database**](https://github.com/NahomWondimu/UrbexDBApp) – Mapping abandoned spaces with route optimization + MySQL backend. :contentReference[oaicite:3]{index=3}  
+
+> (If you later publish the Neurobit project, add it here and to the pinned repos.)
+
+---
+
+### 📌 Pinned Repositories  
+
+<p align="left">
+   <a href="https://github.com/NahomWondimu/SafeHub">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NahomWondimu&repo=SafeHub&theme=gruvbox" />
+   </a>
+   <a href="https://github.com/NahomWondimu/MailManManager">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NahomWondimu&repo=MailManManager&theme=gruvbox" />
+   </a>
+</p>
+<p align="left">
+   <a href="https://github.com/NahomWondimu/UrbexDBApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NahomWondimu&repo=UrbexDBApp&theme=gruvbox" />
+   </a>
+   <a href="https://github.com/NahomWondimu/PacketToCsv">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NahomWondimu&repo=PacketToCsv&theme=gruvbox" />
+   </a>
+</p>
+
 
 ---
 
@@ -70,10 +99,14 @@ The ultimate goal: to contribute to a **solarpunk future** — a world where tec
 ---
 
 ### 🌱 Currently Learning  
-- Preparing for **CompTIA Security+** (target: Aug 2025)  
-- Penetration testing via Hack The Box & TryHackMe  
-- AI + quantum applications in cybersecurity (Cirq, ML, swarm systems)  
-- Expanding my homelab with Proxmox + AWS  
+
+| Area                  | Focus                                    |
+|------------------------|------------------------------------------|
+| Certification          | CompTIA Security+ (target: Aug 2025)    |
+| Penetration Testing    | Hack The Box, TryHackMe                 |
+| Research & Innovation  | AI + Quantum (Cirq, ML, swarm systems)  |
+| Infrastructure         | Homelab: Proxmox + AWS                  |
+| Future Additions       | *To be filled with new milestones*       |
 
 ---
 
