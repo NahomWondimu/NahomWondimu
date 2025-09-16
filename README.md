@@ -9,7 +9,7 @@ I learn quickly, adapt easily, and build with impact in mind.
 ---
 
 ### 📌 At a Glance (For Recruiters & Reviewers)  
-- **Quantum Research:** [MathQuantum Fellowship Final Project](https://nahomwondimu.github.io/mathquantumproject/)  
+- **Quantum Research:** [MathQuantum Fellowship Project](https://nahomwondimu.github.io/mathquantumproject/)  
 - **Community Impact:** [Tsinat.org](https://tsinat.org) — tech and program support for 100+ families  
 - **Cybersecurity Projects:** [SafeHub](https://github.com/NahomWondimu/SafeHub), [MailMan](https://github.com/NahomWondimu/MailManManager)  
 - **Data & Infra:** [PacketToCsv](https://github.com/NahomWondimu/PacketToCsv), [Urbex Database](https://github.com/NahomWondimu/UrbexDBApp)  
@@ -18,7 +18,7 @@ I learn quickly, adapt easily, and build with impact in mind.
 
 ### 🌐 Live Projects  
 - **Tsinat.org** — WordPress platform supporting cultural broker services, education, and disability advocacy.
-- **Holywearhouse.com** - [Holywearhouse Site](https://holywearhouse.com/) E-commerce site for christian clothing shop. Managing 50+ products, ~150 monthly visitors, and 20–30 monthly orders.  
+- **Holywearhouse.com** — E-commerce site for christian clothing shop. Managing 50+ products, ~150 monthly visitors, and 20–30 monthly orders.  
 - **2022 MathQuantum Fellowship Page** — [MathQuantum Research](https://nahomwondimu.github.io/mathquantumproject/) (quantum computing research + notes).  
 
 ---
