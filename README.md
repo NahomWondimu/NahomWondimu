@@ -17,8 +17,9 @@ I learn quickly, adapt easily, and build with impact in mind.
 ---
 
 ### 🌐 Live Projects  
-- **Tsinat.org** — WordPress platform supporting cultural broker services, education, and disability advocacy.  
-- **MathQuantum Fellowship Page** — [nahomwondimu.github.io/mathquantumproject](https://nahomwondimu.github.io/mathquantumproject/) (quantum computing research + notes).  
+- **Tsinat.org** — WordPress platform supporting cultural broker services, education, and disability advocacy.
+- **Holywearhouse.com** - [Holywearhouse Site](https://holywearhouse.com/) E-commerce site for christian clothing shop. Managing 50+ products, ~150 monthly visitors, and 20–30 monthly orders.  
+- **2022 MathQuantum Fellowship Page** — [MathQuantum Research](https://nahomwondimu.github.io/mathquantumproject/) (quantum computing research + notes).  
 
 ---
 
@@ -58,6 +59,7 @@ Python · Java · C++ · Go · JavaScript · Bash · Linux · Docker · AWS · R
 | Research | AI + Quantum (encodings, small-qubit circuits) |
 | Infrastructure | Proxmox + AWS VPC lab |
 | Community | Scaling programs through tech |
+| **Legacy Project** | Developing project *[Ember](https://github.com/nahomwondimu/Ember)* |
 
 ---
 
