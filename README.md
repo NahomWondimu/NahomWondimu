@@ -32,8 +32,8 @@ I learn quickly, adapt easily, and build with impact in mind.
 
 ### 🤝 Referrals & Collaborations  
 I grow best by working with others. Current collabs include:  
-- **Aman’s Startup** — applied AI project, building alongside peers.  
-- **Tsinat Institute** — technology coordinator, youth tutoring, and program support.  
+- **Holy Wearhouse Startup** — Developed a reverse image search algorithm that works by managing a vector database.  
+- **Tsinat Institute** — Assisted in development and currently maintain organization's web page at [tsinat.org](https://tsinat.org). Hosts 100+ registered users in the local Ethiopian & Eritrean community.   
 - **Hackathons** — Bitcamp 2025 (SafeHub, CyberSafe).  
 
 ---
