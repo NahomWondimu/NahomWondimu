@@ -9,9 +9,9 @@ I learn quickly, adapt easily, and build with impact in mind.
 ---
 
 ### At a Glance (an overview) 
-- **Quantum Research:** [MathQuantum Fellowship Project](https://nahomwondimu.github.io/mathquantumproject/)  
-- **Community Impact:** [Tsinat.org](https://tsinat.org) — tech and program support for 100+ families including a website that shares news of events, capable of managing book sales, and advertising events.  
-- **Cybersecurity Projects:** [SafeHub](https://github.com/NahomWondimu/SafeHub), [MailMan](https://github.com/NahomWondimu/MailManManager)  
+- **Quantum Research:** [MathQuantum Highschool Fellowship Project](https://nahomwondimu.github.io/mathquantumproject/) 
+- **Community Impact:** [Tsinat.org](https://tsinat.org) 
+- **Cybersecurity Projects:** [SafeHub (Bitcamp 2025 Project)](https://github.com/NahomWondimu/SafeHub), [MailMan](https://github.com/NahomWondimu/MailManManager)  
 - **Data & Infra:** [PacketToCsv](https://github.com/NahomWondimu/PacketToCsv), [Urbex Database](https://github.com/NahomWondimu/UrbexDBApp)  
 
 ---
@@ -52,17 +52,19 @@ Python · Java · C/C++ · Rust · Go · JavaScript · Java · Bash · Linux · 
 ---
 
 ### 🌱 Currently Learning  
-| Area | Focus |
+| `Area` | `Focus` |
 |---|---|
 | Certification | CompTIA Security+ (target: Aug 2025) |
 | Penetration Testing | Hack The Box, TryHackMe |
 | Research | AI + Quantum (encodings, small-qubit circuits) |
 | Infrastructure | Proxmox + AWS VPC lab |
 | Community | Scaling programs through tech |
-| ==**My Legacy Project**== | Project [Ember](https://github.com/nahomwondimu/Ember) |
+| My Legacy Project | Project [Ember](https://github.com/nahomwondimu/Ember) |
 
 ---
 
-### 📫 Connect  
+### 📫 Connect
+- Always looking for projects, research, events, and initiatives to participate in and contribute to.
+
 - [LinkedIn](https://www.linkedin.com/in/nahomwondimu/)  
 - [Email](mailto:imwondimu@gmail.com)  
