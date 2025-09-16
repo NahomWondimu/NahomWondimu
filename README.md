@@ -8,9 +8,9 @@ I learn quickly, adapt easily, and build with impact in mind.
 
 ---
 
-### 📌 At a Glance (For Recruiters & Reviewers)  
+### At a Glance (an overview) 
 - **Quantum Research:** [MathQuantum Fellowship Project](https://nahomwondimu.github.io/mathquantumproject/)  
-- **Community Impact:** [Tsinat.org](https://tsinat.org) — tech and program support for 100+ families  
+- **Community Impact:** [Tsinat.org](https://tsinat.org) — tech and program support for 100+ families including a website that shares news of events, capable of managing book sales, and advertising events.  
 - **Cybersecurity Projects:** [SafeHub](https://github.com/NahomWondimu/SafeHub), [MailMan](https://github.com/NahomWondimu/MailManManager)  
 - **Data & Infra:** [PacketToCsv](https://github.com/NahomWondimu/PacketToCsv), [Urbex Database](https://github.com/NahomWondimu/UrbexDBApp)  
 
@@ -33,14 +33,14 @@ I learn quickly, adapt easily, and build with impact in mind.
 
 ### 🤝 Referrals & Collaborations  
 I grow best by working with others. Current collabs include:  
-- **Holy Wearhouse Startup** — Developed a reverse image search algorithm that works by managing a vector database.  
+- **Holy Wearhouse Startup** — Worked with a startup to develop a reverse image search capability for an e-commerce store that works by managing a vector database.
 - **Tsinat Institute** — Assisted in development and currently maintain organization's web page at [tsinat.org](https://tsinat.org). Hosts 100+ registered users in the local Ethiopian & Eritrean community.   
-- **Hackathons** — Bitcamp 2025 (SafeHub, CyberSafe).  
+- **Hackathons** — Worked with a team on Bitcamp 2025 (SafeHub, CyberSafe).  
 
 ---
 
 ### 🧰 Languages & Tools  
-Python · Java · C++ · Go · JavaScript · Bash · Linux · Docker · AWS · React · Django · SQL · Wireshark  
+Python · Java · C/C++ · Rust · Go · JavaScript · Java · Bash · Linux · Docker · AWS · React · Django · SQL · Wireshark · Metasploit  
 
 ---
 
@@ -59,7 +59,7 @@ Python · Java · C++ · Go · JavaScript · Bash · Linux · Docker · AWS · R
 | Research | AI + Quantum (encodings, small-qubit circuits) |
 | Infrastructure | Proxmox + AWS VPC lab |
 | Community | Scaling programs through tech |
-| **Legacy Project** | Developing project *[Ember](https://github.com/nahomwondimu/Ember)* |
+| ==**My Legacy Project**== | Project [Ember](https://github.com/nahomwondimu/Ember) |
 
 ---
 
