@@ -64,7 +64,7 @@ Python · Java · C/C++ · Rust · Go · JavaScript · Java · Bash · Linux · 
 ---
 
 ### 📫 Connect
-- Always looking for projects, research, events, and initiatives to participate in and contribute to.
+*Always looking for projects, research, events, and initiatives to participate in and contribute to.*
 
 - [LinkedIn](https://www.linkedin.com/in/nahomwondimu/)  
 - [Email](mailto:imwondimu@gmail.com)  
