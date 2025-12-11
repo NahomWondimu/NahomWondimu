@@ -2,17 +2,54 @@
 
 **`Shaping the future instead of inheriting it.`**
 
-I’m a Computer Science student at the University of Maryland (University Honors) and an aspiring cybersecurity professional. My journey blends security research, full-stack development, and quantum exploration — from building AWS “fake internet” labs and penetration testing tools to community platforms and research projects.  
+I’m a Computer Science student at the University of Maryland (University Honors) and an aspiring cybersecurity professional. My journey blends experimental systems design, security research, full-stack development — from building AWS “fake internet” labs and penetration testing tools to community platforms and research projects.  
 
 I learn quickly, adapt easily, and build with impact in mind.  
 
 ---
 
 ### At a Glance (an overview) 
-- **Quantum Research:** [MathQuantum Highschool Fellowship Project](https://nahomwondimu.github.io/mathquantumproject/) 
+- **Experimental Research**: Neural Agents Simulation (coming soon)
+- **Cyber Range Research**: AWS Fake Internet Project (coming soon)
 - **Community Impact:** [Tsinat.org](https://tsinat.org) 
 - **Cybersecurity Projects:** [SafeHub (Bitcamp 2025 Project)](https://github.com/NahomWondimu/SafeHub), [MailMan](https://github.com/NahomWondimu/MailManManager)  
 - **Data & Infra:** [PacketToCsv](https://github.com/NahomWondimu/PacketToCsv), [Urbex Database](https://github.com/NahomWondimu/UrbexDBApp)  
+
+---
+
+## 🔬 Research & Experimental Systems Work  
+
+### **Self-Organizing Neural Agents in Maze Environments (Neurobit Simulation)**  
+*Exploring emergent intelligence through lightweight, mutation-driven agents.*
+
+Designed a visual and algorithmic system where “neurobits” — small XOR-mutating agents inspired by neural circuitry and malware propagation — navigate a maze through pattern reinforcement and stochastic adaptation. This project functions as an experimental platform for studying:
+
+- reinforcement-like adaptation in constrained environments  
+- emergent swarm behavior from simple rule sets  
+- binary pattern matching as an alternative to traditional neural networks  
+- mutation-driven optimization through XOR variation  
+- interactions between competing agents in limited-resource spaces  
+
+A Pygame-based visualizer renders real-time agent activity, with backend logic structured for future path-learning and optimization experiments.  
+📎 **Medium Article (coming soon)**  
+📎 **Repository (coming soon)**  
+
+---
+
+### **AWS “Fake Internet” Cyber Range — Multi-Subnet Research Environment**  
+*A cloud-scale sandbox for adversarial simulation, observability testing, and secure network design.*
+
+Developed a multi-subnet AWS VPC that models four realistic network environments: public café WiFi, enterprise network, malicious infrastructure, and university systems. The platform supports controlled cybersecurity experiments, including:
+
+- cross-subnet attack simulation and lateral movement  
+- packet-level inspection across NAT, routing tables, and ACL boundaries  
+- SIEM log aggregation and anomaly-detection prototypes  
+- adversarial scanning, enumeration, and service probing  
+- controlled malware-like behavior inside isolated subnets  
+
+This cyber range provides an experimental foundation for exploring segmentation strategies, detection engineering, and scalable defensive architectures.  
+📎 **Medium Article (coming soon)**  
+📎 **Repository (coming soon)**  
 
 ---
 
@@ -54,7 +91,7 @@ Python · Java · C/C++ · Rust · Go · JavaScript · Java · Bash · Linux · 
 ### 🌱 Currently Learning  
 | `Area` | `Focus` |
 |---|---|
-| Certification | CompTIA Security+ (target: Aug 2025) |
+| Certification | CompTIA Security+ (target: Feb 2025) |
 | Penetration Testing | Hack The Box, TryHackMe |
 | Research | AI + Quantum (encodings, small-qubit circuits) |
 | Infrastructure | Proxmox + AWS VPC lab |
