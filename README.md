@@ -17,39 +17,35 @@ I learn quickly, adapt easily, and build with impact in mind.
 
 ---
 
-## 🔬 Research & Experimental Systems Work  
+## 🔬 Research & Experimental Systems Work
 
-### **Self-Organizing Neural Agents in Maze Environments (Neurobit Simulation)**  
-*Exploring emergent intelligence through lightweight, mutation-driven agents.*
+### **Neurobit Maze Simulation**  
+*Lightweight agents. Emergent behavior. Self-organizing pathways.*
 
-Designed a visual and algorithmic system where “neurobits” — small XOR-mutating agents inspired by neural circuitry and malware propagation — navigate a maze through pattern reinforcement and stochastic adaptation. This project functions as an experimental platform for studying:
+Built a simulation where small “neurobits” navigate mazes using simple rules, XOR-based mutation, and pattern matching. Focus areas:
 
-- reinforcement-like adaptation in constrained environments  
-- emergent swarm behavior from simple rule sets  
-- binary pattern matching as an alternative to traditional neural networks  
-- mutation-driven optimization through XOR variation  
-- interactions between competing agents in limited-resource spaces  
+- emergent swarm behavior  
+- lightweight learning without neural nets  
+- mutation-driven adaptation  
+- real-time visualization (Pygame)
 
-A Pygame-based visualizer renders real-time agent activity, with backend logic structured for future path-learning and optimization experiments.  
-📎 **Medium Article (coming soon)**  
-📎 **Repository (coming soon)**  
+📎 Medium Article (coming soon)  
+📎 Repo (coming soon)  
 
 ---
 
-### **AWS “Fake Internet” Cyber Range — Multi-Subnet Research Environment**  
-*A cloud-scale sandbox for adversarial simulation, observability testing, and secure network design.*
+### **AWS “Fake Internet” Cyber Range**  
+*Four subnet domains. Realistic attack paths. Full observability.*
 
-Developed a multi-subnet AWS VPC that models four realistic network environments: public café WiFi, enterprise network, malicious infrastructure, and university systems. The platform supports controlled cybersecurity experiments, including:
+Designed a multi-subnet AWS VPC to simulate real-world network environments (café WiFi, enterprise, malicious infra, university). Used it to run controlled experiments in:
 
-- cross-subnet attack simulation and lateral movement  
-- packet-level inspection across NAT, routing tables, and ACL boundaries  
-- SIEM log aggregation and anomaly-detection prototypes  
-- adversarial scanning, enumeration, and service probing  
-- controlled malware-like behavior inside isolated subnets  
+- adversarial scanning + lateral movement  
+- network segmentation + routing behavior  
+- packet analysis + SIEM log aggregation  
+- isolated malware-style behavior
 
-This cyber range provides an experimental foundation for exploring segmentation strategies, detection engineering, and scalable defensive architectures.  
-📎 **Medium Article (coming soon)**  
-📎 **Repository (coming soon)**  
+📎 Medium Article (coming soon)  
+📎 Repo (coming soon)
 
 ---
 
