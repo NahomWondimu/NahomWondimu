@@ -78,9 +78,7 @@ Python · Java · C/C++ · Rust · Go · JavaScript · Java · Bash · Linux · 
 ---
 
 ### 📊 GitHub Stats  
-![Nahom's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahomWondimu&show_icons=true&theme=gruvbox)  
-![GitHub Streak](https://streak-stats.demolab.com?user=NahomWondimu&theme=gruvbox&border_radius=4.5)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahomWondimu&layout=compact&theme=gruvbox)  
+![GitHub Streak](https://streak-stats.demolab.com?user=NahomWondimu&theme=gruvbox&border_radius=4.5)
 
 ---
 
