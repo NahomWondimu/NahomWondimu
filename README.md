@@ -85,7 +85,7 @@ Python · Java · C/C++ · Rust · Go · JavaScript · Java · Bash · Linux · 
 ### 🌱 Currently Learning  
 | `Area` | `Focus` |
 |---|---|
-| Certification | CompTIA Security+ (target: Feb 2025) |
+| Certification | CompTIA Security+ (target: Feb 2026) |
 | Penetration Testing | Hack The Box, TryHackMe |
 | Research | AI + Quantum (encodings, small-qubit circuits) |
 | Infrastructure | Proxmox + AWS VPC lab |
